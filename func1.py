@@ -1,1 +1,2 @@
-1
+print('Hello')
+print('How are you?')
